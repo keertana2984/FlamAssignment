@@ -1,0 +1,6 @@
+theta_deg: 30.0
+theta_rad: 0.5235987755982988
+M: 0.03
+X: 55.0
+L1 (rotated frame): 1.5048270052526411e-05
+MSE (rotated frame): 2.918883145893062e-10
